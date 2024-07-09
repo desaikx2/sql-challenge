@@ -1,6 +1,8 @@
 # sql-challenge
 
+```python
 Home work has 6 CSV files and I am able to create Tables using this SQL file - **create_table.sql**
+```
 
 I also created ERD diagram and you can find PNG and PDF files in ERD folder.
 
@@ -8,13 +10,15 @@ There was task to upload CSV files and i choose programmatic solution rather tha
 
 You will find various CSV upload files of Python -
 
+````python
 database_import_dept_emp.py	
 database_import_salaries.py
 database_import_dept_manager.py	
 database_import_titles.py
 database_import_employees.py
+````
 
-There was various questions about Data Analysis
+`There was various questions about Data Analysis and you will find SQL file **data_analysis.sql**`
 
 /* 
    Data Analysis
